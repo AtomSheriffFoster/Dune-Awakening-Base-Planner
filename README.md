@@ -2,6 +2,7 @@
 ​
 **The #1 base planning, base calculator, and resource management tool for Dune: Awakening players.**
 ​
+
 [![Download](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_DOWNLOAD_FREE-v2.4.1_for_Windows-c8962e?style=for-the-badge)](https://github.com/AtomSheriffFoster/Dune-Awakening-Base-Planner/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/AtomSheriffFoster/Dune-Awakening-Base-Planner/total?style=flat-square&label=Downloads&color=c8962e)](https://github.com/AtomSheriffFoster/Dune-Awakening-Base-Planner/releases)
 [![Version](https://img.shields.io/github/v/release/AtomSheriffFoster/Dune-Awakening-Base-Planner?style=flat-square)](https://github.com/AtomSheriffFoster/Dune-Awakening-Base-Planner/releases/latest)
